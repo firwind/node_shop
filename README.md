@@ -1,4 +1,4 @@
-zshop是一个nodejs写的商城系统，看完廖雪峰的[《javaScript全栈教程》](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)后，想练练手，已是开始踩坑之路。目前完成了首页，商品搜索，购物车，我的，登录，商品详情，结算等，后面将继续完善其它功能。完善后会把数据库的er图画出来。
+zshop是一个nodejs写的商城系统，目前完成了首页，商品搜索，购物车，我的，登录，商品详情，结算等，后面将继续完善其它功能。完善后会把数据库的er图画出来。
 
 在线预览效果地址：<http://120.78.200.74:3000/zshop/>（pc浏览器请切换为手机模式）。部署在阿里云上面，`centOS 6.5 64位`，`1核cpu`，`1g内存`，`1m带宽`，`40g普通硬盘`，登录手机：18312345678，密码：123456。
 
@@ -41,8 +41,4 @@ zshop是一个nodejs写的商城系统，看完廖雪峰的[《javaScript全栈�
 ![image](https://github.com/halloffamezwx/zshop/raw/master/html_template/screenshot/8.jpg)
 ![image](https://github.com/halloffamezwx/zshop/raw/master/html_template/screenshot/9.jpg)
 
-<b>五 如果你觉得对你有所启发，star一下或者扫码请我喝杯咖啡，金额任意。</b></br>
-
-![image](https://github.com/halloffamezwx/zshop/raw/master/html_template/screenshot/7.png)
-
-<b>六 我的博客：</b><http://zhuwx.iteye.com/>。
+<b>五 如果你觉得对你有所启发，star一下</b></br>
